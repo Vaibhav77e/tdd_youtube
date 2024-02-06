@@ -7,5 +7,9 @@ class Counter{
     _counter++;
   }
 
+  void decrement(){
+    _counter--;
+  }
+
 
 }
