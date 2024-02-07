@@ -11,5 +11,9 @@ class Counter{
     _counter--;
   }
 
+  void reset(){
+    _counter = 0;
+  }
+
 
 }
